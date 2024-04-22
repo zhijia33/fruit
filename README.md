@@ -1,0 +1,1 @@
+該檔案中包含了fruit、signal、tax 三種程式碼 fruit為隨機選取水果的工具 signal為依據分數判斷景氣燈號的工具 tax為計算應繳年所得稅額的工具
